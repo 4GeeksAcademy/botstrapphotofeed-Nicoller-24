@@ -14,28 +14,13 @@ input[type=text] {
 }
 
 h6 {
-    color: gray;
-    text-align: right;
+    float: right;
 }
 
 img {
     width:100%;
 }
 
-.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
-    border: 1px solid lightgray;
-    background-color: white;
-    
-}
-
-.navbar-brand {
-    color: black;
-    font-family: 'Oleo Script', cursive;
-}
-
-.fas {
-    color: black;
-}
 
 #home {
     background: white;
@@ -49,25 +34,6 @@ img {
     background: white;
 }
 
-#dropdownMenuButton {
-    background-color: rgb(114, 110, 110);
-    width: 100%;
-    padding-top: 0%;
-    padding-bottom: 0%;
-}
-
-#dropdownMenuButton > i {
-    color: white;
-}
-
-#parte-derecha {
-    gap: 7px;
-}
-
 #subtitle {
     float: left;
-}
-
-#lastinred {
-    color: red;
 }
